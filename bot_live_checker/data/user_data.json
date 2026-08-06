@@ -1,0 +1,36 @@
+{
+  "1460017467": {
+    "name": "Dinh Nhat",
+    "fb_targets": [
+      {
+        "target": "100013101751722",
+        "name": "100013101751722",
+        "status": "LIVE",
+        "created_at": "13:02:50 - 06/08/2026",
+        "last_check": "13:02:50 - 06/08/2026"
+      },
+      {
+        "target": "23309472",
+        "name": "",
+        "status": "DIE",
+        "created_at": "13:03:19 - 06/08/2026",
+        "last_check": "13:03:19 - 06/08/2026"
+      }
+    ],
+    "tiktok_targets": [],
+    "group_targets": [],
+    "bot_private": {
+      "token": "",
+      "chat_id": ""
+    },
+    "auto_clean_days": 4,
+    "ig_targets": [
+      {
+        "target": "minzun_001",
+        "name": "Lan Anh",
+        "status": "LIVE",
+        "last_check": "12:51:25 - 06/08/2026"
+      }
+    ]
+  }
+}

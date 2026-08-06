@@ -1,0 +1,25 @@
+{
+  "1460017467": {
+    "name": "Dinh Nhat",
+    "fb_targets": [
+      {
+        "uid": "100013101751722",
+        "ten": "Huỳnh Đức",
+        "ghichu": "0",
+        "gia": 0,
+        "trangthai": "DIE",
+        "time": "18:02:33 - 26/06/2026",
+        "live_time": "",
+        "last_check": "18:02:33 - 26/06/2026"
+      }
+    ],
+    "tiktok_targets": [],
+    "instagram_targets": [],
+    "group_targets": [],
+    "bot_private": {
+      "token": "",
+      "chat_id": ""
+    },
+    "auto_clean_days": 4
+  }
+}

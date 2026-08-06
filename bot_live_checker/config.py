@@ -1,0 +1,10 @@
+import os
+
+BOT_TOKEN = "8843675712:AAH62GpAyrBy7Nd1g5V9sCvmMz8iXIP2RCU"
+ADMIN_ID = 123456789
+DATA_FILE = "data/user_data.json"
+TOKEN_POOL_FILE = "data/fb_tokens.json"
+CHECK_INTERVAL_MINUTES = 5
+
+MAX_RETRIES = 3
+RETRY_DELAY = 2
